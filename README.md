@@ -2,7 +2,7 @@
 
 Base Blog: a minimal blog template for phones, with a contact page and typography reference.
 
-**[Live demo](https://mobifreaks.github.io/Base-Blog-Mobi/)** ·
+**[Live demo](https://mobifreaks.munawarahmed.com/Base-Blog-Mobi/)** ·
 [Download zip](https://github.com/mobifreaks/Base-Blog-Mobi/archive/HEAD.zip) ·
 [All 22 templates](https://munawarahmed.com/mobifreaks)
 
